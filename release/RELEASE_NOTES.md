@@ -1,0 +1,19 @@
+**Mazda RX-7 Mazda Motorsport #62 (1991 IMSA GTO), ported from Forza Motorsport 6 to Forza Horizon 2 PC.**
+
+New car, car Id **19921**, sold at the Autoshow (Mazda) for **650,000 CR**.
+
+- Full FM6 car: body, Mazda Motorsport livery, cockpit, gold mesh wheels, its own physics and upgrades.
+- Its own engine sound (FM6 recordings, own sound bank).
+- Taillights like in FM6 (night + brake glow).
+- Night headlights added: clear glass covers with a lamp behind, lit with the game's headlights.
+
+## Requirements
+• [Azimuth](https://almost-there-games.itch.io/azimuth) 1.0.4
+• [Extra Options](https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions) 0.4.4+ (loads the `mods` folder)
+
+## Install
+Close the game, extract `RX7_62_Mazda_Motorsport_v1.0.zip` into your Azimuth folder (the one with `azimuth.exe`), start the game and buy the car at the Autoshow.
+
+**FR :** ferme le jeu, extrais le zip dans ton dossier Azimuth (celui avec `azimuth.exe`), lance le jeu et achète la voiture au Salon auto (Mazda, 650 000 CR).
+
+Note: the mod ships its own `MasterBank.strings.bank`; another mod replacing the same file will conflict.
