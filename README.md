@@ -1,6 +1,6 @@
 # Mazda RX-7 Mazda Motorsport #62 — 1991 IMSA GTO (Forza Horizon 2 PC)
 
-![RX-7 #62 side view](images/side.webp)
+![RX-7 #62 at night, headlights on](images/front_night.webp)
 
 The **1991 Mazda RX-7 #62** IMSA GTO race car, ported from **Forza Motorsport 6** into **Forza Horizon 2** on PC as a brand new car (it does not replace any stock car).
 
@@ -15,7 +15,7 @@ The **1991 Mazda RX-7 #62** IMSA GTO race car, ported from **Forza Motorsport 6*
 - **Taillights like in FM6**: lit at night, the whole lamp glows when braking.
 - **Night headlights added**: the FM6 car only has the empty headlight covers (it was made for day races). Like the real car at night races, the covers now hold clear glass with a lamp behind it that lights up with the game's headlights and really lights the road.
 
-![Night headlights](images/headlights_night.png)
+![Taillights at night](images/rear_night.webp)
 
 ## Requirements
 
@@ -26,7 +26,7 @@ The **1991 Mazda RX-7 #62** IMSA GTO race car, ported from **Forza Motorsport 6*
 
 1. **Close the game.**
 2. Download `RX7_62_Mazda_Motorsport_v1.0.zip` from the [Releases](../../releases) page.
-3. Extract it into your Azimuth folder (the one containing `azimuth.exe`). You now have `mods\MAZ_62_RX7_91 Mazda Motorsport`.
+3. Extract it into the **`mods`** folder of your Azimuth folder (the `mods` folder next to `azimuth.exe`). You must end up with `mods\MAZ_62_RX7_91 Mazda Motorsport\mod.json`.
 4. Launch the game and buy the car at the Autoshow (Mazda) for 650,000 CR.
 
 Extra Options adds the new folder to `mods\loadorder.txt` automatically.
@@ -65,7 +65,7 @@ La **Mazda RX-7 n°62** IMSA GTO de 1991, portée depuis **Forza Motorsport 6** 
 
 1. **Ferme le jeu.**
 2. Télécharge `RX7_62_Mazda_Motorsport_v1.0.zip` sur la page [Releases](../../releases).
-3. Extrais-le dans ton dossier Azimuth (celui qui contient `azimuth.exe`). Tu dois avoir `mods\MAZ_62_RX7_91 Mazda Motorsport`.
+3. Extrais-le dans le dossier **`mods`** de ton dossier Azimuth (le dossier `mods` à côté de `azimuth.exe`). Tu dois obtenir `mods\MAZ_62_RX7_91 Mazda Motorsport\mod.json`.
 4. Lance le jeu et achète la voiture au Salon auto (Mazda) pour 650 000 CR.
 
 Extra Options ajoute tout seul le nouveau dossier dans `mods\loadorder.txt`.

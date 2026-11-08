@@ -7,8 +7,8 @@ REQUIREMENTS
 
 INSTALL
 1. Close the game.
-2. Extract this zip into your Azimuth folder (the one that contains azimuth.exe).
-   You get: mods\MAZ_62_RX7_91 Mazda Motorsport
+2. Extract this zip into the "mods" folder of your Azimuth folder (next to azimuth.exe).
+   You must get: mods\MAZ_62_RX7_91 Mazda Motorsport\mod.json
 3. Start the game. The car is sold at the Autoshow, under Mazda, for 650,000 CR.
 
 UNINSTALL
@@ -31,8 +31,8 @@ PRÉREQUIS
 
 INSTALLATION
 1. Ferme le jeu.
-2. Extrais ce zip dans ton dossier Azimuth (celui qui contient azimuth.exe).
-   Tu obtiens : mods\MAZ_62_RX7_91 Mazda Motorsport
+2. Extrais ce zip dans le dossier "mods" de ton dossier Azimuth (à côté de azimuth.exe).
+   Tu dois obtenir : mods\MAZ_62_RX7_91 Mazda Motorsport\mod.json
 3. Lance le jeu. La voiture est en vente au Salon auto, chez Mazda, pour 650 000 CR.
 
 DÉSINSTALLATION
