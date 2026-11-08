@@ -1,4 +1,4 @@
-**Mazda RX-7 Mazda Motorsport #62 (1991 IMSA GTO), ported from Forza Motorsport 6 to Forza Horizon 2 PC.**
+**Mazda RX-7 Mazda Motorsport #62 (1991 IMSA GTO), ported from Forza Motorsport 6 to Forza Horizon 2 PC. This is the version with headlights.**
 
 New car, car Id **19921**, sold at the Autoshow (Mazda, Hypercars) for **650,000 CR**.
 

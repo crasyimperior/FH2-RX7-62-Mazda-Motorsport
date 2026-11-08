@@ -1,8 +1,10 @@
-# Mazda RX-7 Mazda Motorsport #62 — 1991 IMSA GTO (Forza Horizon 2 PC)
+# Mazda RX-7 Mazda Motorsport #62 — 1991 IMSA GTO, Headlights Version (Forza Horizon 2 PC)
 
 ![RX-7 #62 at night, headlights on](images/front_night.webp)
 
 The **1991 Mazda RX-7 #62** IMSA GTO race car, ported from **Forza Motorsport 6** into **Forza Horizon 2** on PC as a brand new car (it does not replace any stock car).
+
+> **This is the version with headlights.** The Forza Motorsport 6 car was built for day races and only has empty headlight covers. This version adds working headlights, so you can drive it at night.
 
 *Version française plus bas : [Tutoriel en français](#-tutoriel-en-français).*
 
@@ -45,6 +47,8 @@ Tested on Forza Horizon 2 + Azimuth 1.0.4 + Extra Options 0.4.4.
 ## 🇫🇷 Tutoriel en français
 
 La **Mazda RX-7 n°62** IMSA GTO de 1991, portée depuis **Forza Motorsport 6** dans **Forza Horizon 2** sur PC, comme une nouvelle voiture (elle ne remplace aucune voiture du jeu).
+
+> **C'est la version avec phares.** La voiture de Forza Motorsport 6 a été faite pour les courses de jour et n'a que des caches de phares vides. Cette version ajoute de vrais phares, pour pouvoir rouler de nuit.
 
 ### Ce qu'il y a dedans
 
