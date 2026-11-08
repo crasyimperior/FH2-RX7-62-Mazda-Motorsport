@@ -8,7 +8,7 @@ The **1991 Mazda RX-7 #62** IMSA GTO race car, ported from **Forza Motorsport 6*
 
 ## Features
 
-- **New car "RX-7 Mazda Motorsport n°62"** (car Id **19921**), sold at the **Autoshow** under **Mazda** for **650,000 CR**.
+- **New car "RX-7 Mazda Motorsport n°62"** (car Id **19921**), sold at the **Autoshow** under **Mazda** for **650,000 CR**, in the **Hypercars** category, with its own Autoshow picture.
 - **Full Forza Motorsport 6 car**: body, Mazda Motorsport livery, cockpit and roll cage, gold mesh racing wheels.
 - **Its own physics and upgrades**, taken from the FM6 car.
 - **Its own engine sound**: the FM6 recordings (engine, intake, exhaust) in their own sound bank, so no other car's sound is changed.
@@ -36,7 +36,6 @@ Extra Options adds the new folder to `mods\loadorder.txt` automatically.
 ## Notes
 
 - **Sound bank:** the mod ships its own `MasterBank.strings.bank` (the game needs it to find the car's own engine sounds). Another mod that replaces the same file will conflict with this one.
-- **Autoshow picture:** the dealer picture is borrowed from the stock Mazda RX-7.
 - The headlights are an addition: they are not in the FM6 car.
 
 Tested on Forza Horizon 2 + Azimuth 1.0.4 + Extra Options 0.4.4.
@@ -49,7 +48,7 @@ La **Mazda RX-7 n°62** IMSA GTO de 1991, portée depuis **Forza Motorsport 6** 
 
 ### Ce qu'il y a dedans
 
-- **Nouvelle voiture « RX-7 Mazda Motorsport n°62 »** (ID **19921**), en vente au **Salon auto**, chez **Mazda**, pour **650 000 CR**.
+- **Nouvelle voiture « RX-7 Mazda Motorsport n°62 »** (ID **19921**), en vente au **Salon auto**, chez **Mazda**, pour **650 000 CR**, dans la catégorie **Hypercars**, avec sa propre image au Salon auto.
 - **La voiture complète de FM6** : carrosserie, livrée Mazda Motorsport, habitacle et arceau, jantes de course dorées.
 - **Sa propre physique et ses propres améliorations**, reprises de FM6.
 - **Son propre son moteur** : les enregistrements de FM6 (moteur, admission, échappement) dans leur propre banque de sons, donc aucune autre voiture n'est modifiée.
@@ -75,7 +74,6 @@ Extra Options ajoute tout seul le nouveau dossier dans `mods\loadorder.txt`.
 ### Remarques
 
 - **Banque de sons :** le mod contient son propre `MasterBank.strings.bank` (le jeu en a besoin pour trouver le son moteur de la voiture). Un autre mod qui remplace ce même fichier entrera en conflit avec celui-ci.
-- **Image du Salon auto :** l'image du concessionnaire est celle de la RX-7 d'origine du jeu.
 - Les phares sont un ajout : ils ne sont pas dans la voiture de FM6.
 
 ---
